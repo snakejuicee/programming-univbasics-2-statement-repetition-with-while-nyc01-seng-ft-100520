@@ -8,3 +8,4 @@ while count > 0 do
 end
 if count == 0
   puts "Happy New Year!"
+end
